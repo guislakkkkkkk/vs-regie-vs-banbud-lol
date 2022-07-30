@@ -1,0 +1,276 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "BanbudsROOM",
+		"player1": "banbuds",
+		"player2": "reggie",
+		"player3": null,
+		"events": [
+			[
+				87.2093023255814,
+				[
+					[
+						"CameraZoomStuff",
+						"0.68",
+						"10"
+					]
+				]
+			],
+			[
+				1046.51162790698,
+				[
+					[
+						"CameraZoomStuff",
+						"0.71",
+						"10"
+					]
+				]
+			],
+			[
+				1308.13953488372,
+				[
+					[
+						"CameraZoomStuff",
+						"0.74",
+						"10"
+					]
+				]
+			],
+			[
+				1482.55813953488,
+				[
+					[
+						"CameraZoomStuff",
+						"0.78",
+						"10"
+					]
+				]
+			],
+			[
+				2005.81395348837,
+				[
+					[
+						"CameraZoomStuff",
+						"0.80",
+						"10"
+					]
+				]
+			],
+			[
+				2616.27906976744,
+				[
+					[
+						"CameraZoomStuff",
+						"0.82",
+						"10"
+					]
+				]
+			],
+			[
+				2790.6976744186,
+				[
+					[
+						"CameraZoomStuff",
+						"0.83",
+						"10"
+					]
+				]
+			],
+			[
+				3750,
+				[
+					[
+						"CameraZoomStuff",
+						"0.85",
+						"10"
+					]
+				]
+			],
+			[
+				4098.83720930233,
+				[
+					[
+						"CameraZoomStuff",
+						"0.86",
+						"10"
+					]
+				]
+			],
+			[
+				4273.25581395349,
+				[
+					[
+						"CameraZoomStuff",
+						"0.87",
+						"10"
+					]
+				]
+			],
+			[
+				4970.93023255814,
+				[
+					[
+						"CameraZoomStuff",
+						"0.88",
+						"10"
+					]
+				]
+			],
+			[
+				5406.97674418605,
+				[
+					[
+						"CameraZoomStuff",
+						"0.89",
+						"10"
+					]
+				]
+			],
+			[
+				5581.39534883721,
+				[
+					[
+						"CameraZoomStuff",
+						"0.65",
+						"2"
+					]
+				]
+			],
+			[
+				22325.5813953488,
+				[
+					[
+						"Play Animation",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				22412.7906976744,
+				[
+					[
+						"CameraZoomStuff",
+						"0.69",
+						"5"
+					]
+				]
+			],
+			[
+				25465.1162790698,
+				[
+					[
+						"Play Animation",
+						"um",
+						"1"
+					]
+				]
+			],
+			[
+				27261.6279069767,
+				[
+					[
+						"Play Animation",
+						"SHUT UP",
+						"1"
+					]
+				]
+			],
+			[
+				27711.6279069767,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"0"
+					]
+				]
+			],
+			[
+				27797.342192691,
+				[
+					[
+						"CameraZoomStuff",
+						"0.65",
+						"1"
+					]
+				],
+				null,
+				"Alt Animation"
+			],
+			[
+				71836.5448504984,
+				[
+					[
+						"Play Animation",
+						"fuck",
+						"1"
+					]
+				]
+			],
+			[
+				72265.1162790698,
+				[
+					[
+						"Screen Shake",
+						"0.4, 0.05",
+						""
+					]
+				]
+			],
+			[
+				122615.384615385,
+				[
+					[
+						"Play Animation",
+						"GFGoesHornyMode",
+						"0"
+					],
+					[
+						"Play Animation",
+						"BFGoesHornyMode",
+						"1"
+					]
+				]
+			],
+			[
+				123461.538461539,
+				[
+					[
+						"Play Animation",
+						"WhatNoSex",
+						"1"
+					],
+					[
+						"Play Animation",
+						"WhatNoSex",
+						"0"
+					]
+				]
+			],
+			[
+				125538.461538462,
+				[
+					[
+						"Play Animation",
+						"Confused",
+						"0"
+					],
+					[
+						"Play Animation",
+						"Confused",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 172,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "infant-destroyer"
+	}
+}
